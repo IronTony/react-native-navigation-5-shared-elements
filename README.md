@@ -11,3 +11,5 @@ This is an example on how to use Tabbar and Stacknavigator of React Navigation 5
 Enjoy
 
 ## Give me a star and check also my [React-Native-Starter-App](https://github.com/IronTony/react-native-starter-app) and spread the word and gimme also a star PLS!!
+
+![Example](https://i.ibb.co/dtdmMd6/Screen-Recording-2020-05-17-at-0.gif)
